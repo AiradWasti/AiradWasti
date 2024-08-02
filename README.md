@@ -27,8 +27,8 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="AiradWasti | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
+[<img align="left" alt="AiradWasti | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
 
 
 [instagram]: https://www.instagram.com/airad.w?igsh=Z2szenA2cXdjOTJ4&utm_source=qr
