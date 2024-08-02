@@ -1,6 +1,6 @@
 <h1>Hello, I'm Airad! 
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>🐱‍💻 Cyber Security Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -24,7 +24,7 @@
 
 - <b>CompTIA Security+</b>
 
-<h2> 🤳 Connect with me:</h2>
+<h2> ✔️ Connect with me:</h2>
 
 
 [<img align="left" alt="AiradWasti | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
