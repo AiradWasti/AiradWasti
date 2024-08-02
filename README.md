@@ -20,9 +20,9 @@
 
 <h2> Certifications:</h2>
 
-- <b>CompTIA Network+</b>
+- [<b>CompTIA Network+</b>](https://drive.google.com/file/d/1pmt4x-VOC4iB0P8nDiXU2bVjSmGwC1XE/view?usp=sharing) 
 
-- <b>CompTIA Security+</b>
+- [<b>CompTIA Security+</b>](https://drive.google.com/file/d/1z-cyuQT5gIC1MlTo0homTsMvvOD9eWth/view?usp=sharing)
 
 <h2> ✔️ Connect with me:</h2>
 
