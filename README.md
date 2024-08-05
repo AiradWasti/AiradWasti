@@ -7,6 +7,7 @@
   - [Vulnerability Scanner](https://github.com/AiradWasti/Vulnerability-Scanner)
   - [SSH Brute Force Attack](https://github.com/AiradWasti/SSH-Brute-Force)
   - [Mac Address Changer](https://github.com/AiradWasti/Mac-Changer)
+  - [DNS Spoofer](https://github.com/AiradWasti/DNS-Spoofer)
 
 - <b>General Security Projects</b>
   - x
