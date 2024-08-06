@@ -17,6 +17,7 @@
 - <b>Powershell</b>
   - [Log File Management](https://github.com/AiradWasti/Log-File-Management)
   - [Remote System Information Gathering](https://github.com/AiradWasti/Sysinfo-gathering)
+  - [File Integrity Monitoring](https://github.com/AiradWasti/file_monitor)
 
 
 <h2> Certifications:</h2>
