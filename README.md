@@ -9,9 +9,6 @@
   - [Mac Address Changer](https://github.com/AiradWasti/Mac-Changer)
   - [DNS Spoofer](https://github.com/AiradWasti/DNS-Spoofer)
 
-- <b>General Security Projects</b>
-  - x
-
 - <b>Bash</b>
   - x
 
