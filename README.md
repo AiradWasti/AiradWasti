@@ -12,6 +12,7 @@
 - <b>Bash</b>
   - [Log File Analyzer](https://github.com/AiradWasti/File_Analyzer/tree/main)
   - [Firewall Manager](https://github.com/AiradWasti/firewall_manager)
+  - [Network Scanner](https://github.com/AiradWasti/Network-Scanner/tree/main)
 
 - <b>Powershell</b>
   - x
