@@ -10,7 +10,7 @@
   - [DNS Spoofer](https://github.com/AiradWasti/DNS-Spoofer)
 
 - <b>Bash</b>
-  - x
+  - [Log File Analyzer](https://github.com/AiradWasti/File_Analyzer/tree/main)
 
 - <b>Powershell</b>
   - x
